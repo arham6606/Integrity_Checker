@@ -1,0 +1,3 @@
+"pip install plyer"
+pip freeze | grep python-dotenv >> requirements.txt
+pip install PyQt5

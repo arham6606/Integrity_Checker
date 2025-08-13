@@ -1,0 +1,9 @@
+{
+    "files_to_monitor": [
+        "/etc/hosts",
+        "/etc/passwd",
+        "/etc/ssh/sshd_config",
+        "test_file.txt",
+        "/home/arham/features.txt"
+    ]
+}
